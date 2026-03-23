@@ -1,13 +1,26 @@
 
 task 1 https://www.canva.com/design/DAHEkfTJbNo/6cPK1xyJCXCnP_9YR8mt5g/edit
+For this task, I designed a one-page visual infographic . I chose a clean, professional aesthetic using a VIT-inspired blue and white color scheme to appeal to my peers. The infographic covers four critical pillars: a foundational definition of digital literacy, a guide to building a professional presence on LinkedIn and GitHub, a list of essential academic productivity tools, and a "Safety First" section focusing on Two-Factor Authentication and phishing awareness. I used vector icons to represent each category, ensuring the resource is easy to scan quickly.
+Reflection:Creating this infographic was a valuable exercise in information synthesis. The most interesting part was realizing how much "Digital Literacy" encompasses beyond just basic computer use—it’s truly about critical thinking. One thing I found slightly difficult was the "spatial constraint" of a single page; I had to decide which digital tools were most relevant to a first-year student while keeping the text concise. This forced me to prioritize quality over quantity, a skill that is essential for my role as a Student Digital Ambassador.
+
 task 2 <img width="1072" height="443" alt="image" src="https://github.com/user-attachments/assets/fc0e4c55-0ad7-46eb-ba9d-e76996d08429" />
 <img width="940" height="431" alt="image" src="https://github.com/user-attachments/assets/fdd1a08a-ccfe-4cbb-a1b9-a43997b5722b" />
 <img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/03afd35f-d285-4d19-b16f-0f6416c90c89" />
+Platforms Chosen: For this task, I established my professional presence on GitHub, LinkedIn, and Kaggle.
+Purpose: I chose GitHub to act as a version-controlled gallery for my coding projects. LinkedIn was selected to begin building a network with VIT alumni and industry recruiters, while Kaggle provides a platform to practice data science and compete in global challenges.
+Future Plan: Over the next four years, I plan to use these platforms as a "living resume." I will commit my lab assignments to GitHub to show my coding consistency. On LinkedIn, I will document my internship experiences and certifications. On Kaggle, I aim to move from a beginner to a contributor by participating in at least two competitions per semester. This strategy will ensure that I am "industry-ready" by my final year.
+
 
 
 
 Task 3 <img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/70f70e9a-1243-4014-8f2e-fb815f00a295" />
 https://docs.google.com/spreadsheets/d/120uY5Cs7SP_dnhr2PWU8SPJUab3-ffrfEvv6TCLwtNY/edit?usp=sharing 
+Platforms Used: For the technical portion of this task, I used HackerRank to practice algorithmic logic. For the collaboration portion, I utilized Google Forms and Google Sheets.
+Activity Summary: On HackerRank, I successfully completed the [Name of Challenge] using the Python language. This helped me understand how code is evaluated against test cases. Additionally, I built a 5-question Digital Literacy Quiz using Google Forms to simulate how I would collect data and assess awareness among my peers as a Digital Ambassador.
+Academic Benefit: These tools are vital for my B.Tech journey. HackerRank will help me prepare for technical interviews and improve my problem-solving speed. Google Workspace tools will allow me to collaborate effectively on team research papers and lab reports, ensuring that data is organized and accessible in the cloud. Mastering these now ensures I can focus on core engineering concepts later.
+
+
+
 task 4 Task 4 
   
 Email 1: Requesting an Assignment Extension
